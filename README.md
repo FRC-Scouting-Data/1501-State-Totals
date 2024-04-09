@@ -10,5 +10,5 @@ https://raw.githubusercontent.com/FRC-Scouting-Data/1501-State-Totals/main/1501%
 ## JSON
 
 ```
-
+https://raw.githubusercontent.com/FRC-Scouting-Data/1501-State-Totals/main/csvjson.json
 ```
