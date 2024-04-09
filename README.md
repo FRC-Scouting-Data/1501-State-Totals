@@ -12,3 +12,11 @@ https://raw.githubusercontent.com/FRC-Scouting-Data/1501-State-Totals/main/1501%
 ```
 https://raw.githubusercontent.com/FRC-Scouting-Data/1501-State-Totals/main/csvjson.json
 ```
+
+
+
+# All Indiana Totals
+
+```
+https://raw.githubusercontent.com/FRC-Scouting-Data/1501-State-Totals/main/All-Indiana-2024-Total-1501.csv
+```
